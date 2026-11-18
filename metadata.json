@@ -1,0 +1,6 @@
+{
+  "name": "SOẠN ĐỀ THÔNG MINH AI",
+  "description": "Hỗ trợ giáo viên xây dựng đề kiểm tra, ma trận, bảng đặc tả và học liệu bám sát kiến thức sách giáo khoa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
